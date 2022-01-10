@@ -1,0 +1,14 @@
+@media(max-width: 900px) {
+    div {
+        float: left;
+        display: block;
+    }
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+a,li {
+    display: inline;
+}
